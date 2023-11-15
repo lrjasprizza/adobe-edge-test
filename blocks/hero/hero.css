@@ -10,7 +10,7 @@ main .hero-container {
   
 main .hero {
   position: relative;
-  min-height: 100%;
+  min-height: 100vh;
 }
 
 main .hero h1 {
@@ -22,7 +22,7 @@ main .hero h1 {
 }
 
 main .hero picture {
-  position: relative;
+  position: absolute;
   z-index: -1;
   top: 0;
   left: 0;
