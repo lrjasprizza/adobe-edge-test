@@ -33,7 +33,7 @@ main .hero picture {
   right: 0;
   object-fit: cover;
   box-sizing: border-box;
-  margin-top: 100px;
+  padding-top: 100px;
 }
 
 main .hero img {
