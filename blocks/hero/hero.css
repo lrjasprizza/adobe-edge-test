@@ -19,6 +19,9 @@ main .hero h1 {
   margin-right: auto;
   color: white;
   position: absolute;
+  font-size: 8vw;
+  margin-top: 100px;
+  line-height: 1.2;
 }
 
 main .hero picture {
