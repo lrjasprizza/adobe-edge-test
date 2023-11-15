@@ -279,4 +279,5 @@ header nav .nav-tools {
 
 .nav-wrapper {
   display: none !important;
+  height: 0px;
 }
