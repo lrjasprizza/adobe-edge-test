@@ -9,7 +9,7 @@ main .hero-container {
 }
   
 main .hero {
-  position: relative;
+  
   min-height: 100vh;
 }
 
@@ -21,7 +21,7 @@ main .hero h1 {
   position: absolute;
   font-size: 8vw;
   margin-top: 100px;
-  line-height: 1.2;
+  line-height: 1.2
 }
 
 main .hero picture {
@@ -33,7 +33,6 @@ main .hero picture {
   right: 0;
   object-fit: cover;
   box-sizing: border-box;
-  padding-top: 100px;
 }
 
 main .hero img {
