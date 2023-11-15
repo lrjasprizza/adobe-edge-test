@@ -276,12 +276,3 @@ header nav .nav-sections ul > li > ul > li {
 header nav .nav-tools {
   grid-area: tools;
 }
-
-.header-wrapper {
-  height: 0px;
-}
-
-.nav-wrapper {
-  display: none !important;
-  height: 0px;
-}
