@@ -43,4 +43,10 @@ main .hero-container {
 .hero a.button {
   background-color: #FFF;
   color:  #331300;
+  border: 2px solid #FFF;
+  
+}
+.hero a.button:hover {
+  background-color: #FFF;
+  color:  #ff644c;
 }
