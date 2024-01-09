@@ -45,6 +45,7 @@ main .hero-container {
   color:  #331300;
   border: 2px solid #FFF;
   border-radius: 4px;
+  margin: auto 0 1pc;
 
   
 }
