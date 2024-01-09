@@ -40,6 +40,6 @@ main .hero-container {
   height: 100%;
 }
 
-.hero .button {
+.hero a.button {
   background-color: #FFF;
 }
